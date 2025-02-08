@@ -1,0 +1,7 @@
+body {
+    @apply h-screen flex justify-center items-center bg-gray-100;
+}
+
+button {
+    @apply mx-2;
+}
