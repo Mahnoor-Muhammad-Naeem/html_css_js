@@ -1,3 +1,4 @@
+The projects of my internship are in the repository.
 # PRODIGY_WD_01
 
 ## Responsive Landing Page 
